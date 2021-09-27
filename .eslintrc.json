@@ -1,0 +1,10 @@
+{
+    "extends": ["plugin:compat/recommended"],
+    "env": {
+        "browser": true,
+        "es2021": true
+    },
+    "settings": {
+        "polyfills": ["URL", "Promise", "navigator", "Uint8Array", "performance", "location.hostname"]
+    }
+}
