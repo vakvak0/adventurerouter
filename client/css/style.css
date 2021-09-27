@@ -245,12 +245,15 @@ input#trackname:focus:invalid {
 
     /* map click/drag selects text in controls in Firefox because of display flex */
     -moz-user-select: none;
+    user-select: none;
 }
 .leaflet-control-container {
     -moz-user-select: text;
+    user-select: text;
 }
 #notification_jar .alert {
     -moz-user-select: text;
+    user-select: text;
     margin-bottom: 10px;
 }
 #notification_jar {
