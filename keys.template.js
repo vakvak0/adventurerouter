@@ -3,7 +3,7 @@
 
     BR.keys = {
         // Bing maps, https://www.microsoft.com/maps/default.aspx
-        bing: '',
+        bing: 'Ar2l_oWXdlZGXOJH5cy8IdWabXpanuCb7xQUO0ZkubR5aLB6RGNKr3musTzG-_LE',
 
         // DigitalGlobe, https://developer.digitalglobe.com/maps-api/#plans
         digitalGlobe: '',
